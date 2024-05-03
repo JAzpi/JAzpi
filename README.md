@@ -1,4 +1,7 @@
-### Hi there 👋
+![foto](Captura de pantalla 2024-05-03 a las 20.15.14.png)
+
+
+### Hola, gracias por pasarte a saludar 👋
 
 <!--
 **JAzpi/JAzpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
