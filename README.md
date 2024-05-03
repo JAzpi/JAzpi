@@ -1,4 +1,4 @@
-![foto](Captura de pantalla 2024-05-03 a las 20.15.14.png)
+![foto](img-portada-salud-oceanos-1.jpg)
 
 
 ### Hola, gracias por pasarte a saludar 👋
