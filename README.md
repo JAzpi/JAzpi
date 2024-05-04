@@ -3,6 +3,9 @@
 
 ### Hola, gracias por pasarte a saludar 👋
 
+Te dejo algunos perfiles que pueden inspirarte:
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png)
+
 <!--
 **JAzpi/JAzpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
