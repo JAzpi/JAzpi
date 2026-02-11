@@ -6,7 +6,6 @@
 # Juan Azpiazu Beitia
 **AI-Driven Commercial Strategist | Hospitality Tech Operator | GTM & Automation Builder**
 
----
 
 I operate at the intersection of **AI, Revenue Strategy, and Commercial Execution**.
 
