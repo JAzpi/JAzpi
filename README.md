@@ -1,4 +1,4 @@
-![foto](img-portada-salud-oceanos-1.jpg)
+![foto](tron city.png)
 
 # Juan Azpiazu
 
