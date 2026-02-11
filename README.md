@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner_tron_city_Github.png" alt="AI Systems Banner" width="100%">
+  <img src="Tron_Final_banner_Github.png" alt="Juan Azpiazu Beitia" width="100%">
 </p>
 
 
