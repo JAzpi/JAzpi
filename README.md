@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner-tron-systems.png" alt="AI Systems Banner" width="100%">
+  <img src="tron%20city.png" alt="AI Systems Banner" width="100%">
 </p>
+
 
 # Juan Azpiazu
 
